@@ -142,3 +142,81 @@ nav li{
     font-weight: 30px;
     color:rgb(85, 82, 82) ;
  }
+
+ /* row section */
+ .other-amount{
+    font-size: 20px;
+    font-weight: 20px;
+    padding: 10px;
+    color: #9b9898;
+    margin-top: 20px;
+    
+ }
+ .row-section{
+    text-align: center;
+    margin: auto;
+    padding: 2px 2px 10px 2px;
+ }
+ .row{
+    margin-left: 490px;
+    margin-right: 520px;
+ }
+
+ /* Donate Plan */
+
+ .donate-plan{
+    width: 250px ;
+    height: 250px ;
+    box-shadow: 4px 4px 8px gray;
+    margin: 0 -200px;
+    
+ }
+ .plan-img{
+    width: 50px;
+    padding: 15px;
+ }
+ .plan-text{
+    padding: 5px;
+   
+ }
+
+ .donate-tittle{
+    font-size: 20px;
+    font-weight: bold;
+    color:#302d2d;
+ }
+ .donate-det{
+    font-size: 15px;
+   margin-top: 10px;
+   color:#696666;
+ }
+ .donate-container{
+    display:flex;
+    justify-content: space-evenly;
+    align-items:center;
+    margin-top: 20px;
+    padding: 0 300px;
+
+ }
+.plan1{
+    background-color: antiquewhite;
+}
+.plan2{
+    background-color: rgb(214, 198, 182);
+}
+.plan3{
+    background-color: rgb(233, 201, 163);
+}
+
+.last-section{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   margin: 70px;
+}
+.last-details{
+
+    text-align: center;
+    margin-right: 15px;
+}
